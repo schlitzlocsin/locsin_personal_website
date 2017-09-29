@@ -11,7 +11,7 @@ font-family: 'Fredoka One', cursive;
 	width: 100%;
 	height: 70px;
 	line-height: 70px;
-	background: #2895cc;
+	background: #86632f;
 }
 
 #nav1 h1 {
@@ -51,4 +51,12 @@ font-family: 'Fredoka One', cursive;
 
 #active {
 	background: #1684bb;
+}
+
+#main-content {
+	width: 100%;
+	height: 600px;
+	background: url(images/back1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
