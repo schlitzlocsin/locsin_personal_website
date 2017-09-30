@@ -127,17 +127,41 @@ font-family: 'Quicksand', sans-serif;
 
 #nav2 ul {
 	float: left;
+	margin-left: 20px;
 }
 
 #nav2 ul li {
 	display: inline-block;
 	list-style-type: none;
-	font-size: 30px;
+
 }
 
 #nav2 ul li a {
 	text-decoration:none;
 	color: white;
 	padding: 10px;
-		
+}
+
+#icon {
+	font-size: 35px;
+}
+
+#icon2 {
+	font-size: 35px;
+}
+
+#icon3 {
+	font-size: 35px;
+}
+
+#icon:hover {
+	color: #4267b2;
+}
+
+#icon2:hover {
+	color: #1da1f2;
+}
+
+#icon3:hover {
+	color: black;
 }
