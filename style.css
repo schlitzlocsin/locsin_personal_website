@@ -45,7 +45,7 @@ font-family: 'Quicksand', sans-serif;
 
 #nav1 ul li:hover {
 	background: #403d37;
-	transition:0.6s
+	transition:0.6s;
 	
 }
 
@@ -156,12 +156,33 @@ font-family: 'Quicksand', sans-serif;
 
 #icon:hover {
 	color: #4267b2;
+	transition: all ease-in-out 0.40s;
 }
 
 #icon2:hover {
 	color: #1da1f2;
+	transition:all ease-in-out 0.40s;
 }
 
 #icon3:hover {
 	color: black;
+	transition:all ease-in-out 0.40s;
+}
+
+#child {
+	width: 85%;
+	height: 250px;
+	background: url(images/skysc.jpg);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#child h3 {
+	color: white;
+	background: #434546;
+	width: 300px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	margin-left: 50px;
 }
