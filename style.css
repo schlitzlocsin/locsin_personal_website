@@ -208,7 +208,19 @@ font-family: 'Quicksand', sans-serif;
 #table img {
 	width: 100px;
 	height: 90px;
-	margin-left: 160px;
-	margin-top: 50px;
+
+	margin-top: 25px;
 	border-radius: 10px;
+}
+
+#table th{
+		font-size: 2em;
+		background-color: #2291b2; 
+		color: white;
+		margin-left: 500px;
+}
+
+#table td{
+		padding: 10px;
+	
 }
