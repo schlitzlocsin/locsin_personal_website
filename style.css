@@ -210,6 +210,7 @@ font-family: 'Quicksand', sans-serif;
 		background-color: #2291b2; 
 		color: white;
 		margin-left: 500px;
+		
 }
 
 #table td{
@@ -228,4 +229,13 @@ font-family: 'Quicksand', sans-serif;
 
 #table img:hover {
 	transform: scale(1.5);
+}
+
+#profile ul {
+	margin-left: 200px;
+	list-style-type: none;
+}
+
+#profile p {
+	margin-left: 40px;
 }
