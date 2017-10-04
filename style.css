@@ -193,14 +193,14 @@ font-family: 'Quicksand', sans-serif;
 	width: 300px;
 	height: 300px;
 	border-radius: 50%;
-	margin-left: 151px;
+	margin-left: 101px;
 }
 
 #t {
 	
 	width: 500 px;
-	margin-left: 550px;
-	margin-top: -250px;
+	margin-left: 440px;
+	margin-top: -270px;
 	margin-bottom: 200px;
 	
 }
@@ -232,10 +232,16 @@ font-family: 'Quicksand', sans-serif;
 }
 
 #profile ul {
-	margin-left: 200px;
+	margin-left: 700px;
 	list-style-type: none;
+	margin-top: -400px;
 }
 
 #profile ol {
 	margin-left: 100px;
+}
+
+#profile img {
+	margin-left: 205px;
+	border-radius: 5px;
 }
